@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 
-<!--
-**amnashanwar/amnashanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p>
 <em>Hi, I'm Amnash. Happy you’re here! I'm a sysadmin with a board range of experience built up over the last 8 years in IT operations. I’ve experienced over multiple industries and absolutely love everything in IT.
 
