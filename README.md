@@ -1,8 +1,8 @@
 # Amnash Anwar
 
-### Hi there <img src = "wave.gif" width = 40px>
+### Hello <img src = "wave.gif" width = 40px>
 
-Hello, I'm [Amnash Anwar](https://amnashanwar.com/), a network engineer and system admin, hailing from India. I possess expertise in networking, systems administration, and software development. My proficiency in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing allows me to efficiently deploy, manage, and scale systems.
+I'm [Amnash Anwar](https://amnashanwar.com/), a network engineer and system admin, hailing from India. I possess expertise in networking, systems administration, and software development. My proficiency in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing allows me to efficiently deploy, manage, and scale systems.
 
 My dedication to continuous learning and regular participation in online courses, webinars, and industry events keep me updated with the latest advancements in technology. I believe in staying updated to excel in this field.
 
@@ -56,7 +56,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-Getting me a cup of coffee would be awesome <img src = "handshake.gif" width = 50px>
+Getting me a cup of coffee would be awesome <img src = "handshake.gif" width = 50px align="center">
 
 <a href="https://www.buymeacoffee.com/amnashanwar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
