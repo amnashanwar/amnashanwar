@@ -56,10 +56,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-Getting me a cup of coffee would be awesome <img src = "handshake.gif" width = 50px>
-
-<a href="https://www.buymeacoffee.com/amnashanwar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <div align="center"><img src="WORM.svg"></div>
 
 
@@ -73,3 +69,7 @@ Getting me a cup of coffee would be awesome <img src = "handshake.gif" width = 5
 <br>🔸 System Administration and Networking.
 <br>🔸 Cyber Security.
 <p>
+
+Getting me a cup of coffee would be awesome <img src = "handshake.gif" width = 50px>
+
+<a href="https://www.buymeacoffee.com/amnashanwar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
