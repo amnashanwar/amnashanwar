@@ -2,7 +2,7 @@
 
 ### Hello <img src = "wave.gif" width = 40px>
 
-I'm [Amnash Anwar](https://amnashanwar.com/), a network engineer and system admin, hailing from India. I possess expertise in networking, systems administration, and software development. My proficiency in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing allows me to efficiently deploy, manage, and scale systems.
+I'm [Amnash Anwar](https://amnashanwar.com/), A network engineer & system admin based in India. I possess expertise in networking, systems administration, and software development. My proficiency in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing allows me to efficiently deploy, manage, and scale systems.
 
 My dedication to continuous learning and regular participation in online courses, webinars, and industry events keep me updated with the latest advancements in technology. I believe in staying updated to excel in this field.
 
