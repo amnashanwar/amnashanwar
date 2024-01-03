@@ -1,6 +1,6 @@
 # Amnash Anwar
 
-### Hi there 👋
+### Hi there <img src = "wave.gif" width = 40px>
 
 Hello, I'm [Amnash Anwar](https://amnashanwar.com/), a network engineer and system admin, hailing from India. I possess expertise in networking, systems administration, and software development. My proficiency in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing allows me to efficiently deploy, manage, and scale systems.
 
