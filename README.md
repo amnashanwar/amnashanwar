@@ -15,6 +15,13 @@ I am passionate about sharing my knowledge and experiences with others. If you a
 
 **Languages and Tools:**  
 
+
+ 
+
+
+ 
+
+
 |  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
 |:-:|:-:|:-:|:-:|:-:|---|
 |  <code><img height="50" src="icons/html5.png"></code> |  <code><img height="50" src="icons/css3.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/vue.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
@@ -22,6 +29,7 @@ I am passionate about sharing my knowledge and experiences with others. If you a
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
