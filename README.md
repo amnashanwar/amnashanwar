@@ -8,7 +8,9 @@ My dedication to continuous learning and regular participation in online courses
 
 I am passionate about sharing my knowledge and experiences with others. If you are looking for a network engineer or system admin who is dedicated to their craft and has a proven track record of success, I am the perfect fit for you. Let's collaborate and work on innovative projects together.
 
-  <img align="right" alt="GIF" src="relax.mp4" width="500" height="320" />
+  <p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
+</p>
   
 - 👩‍💻 Do you have any freelance work? Feel free to reach out to me. [email](mailto:hello@amnashanwar.com)
 
