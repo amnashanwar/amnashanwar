@@ -65,9 +65,11 @@ Getting me a cup of coffee would be awesome <img src = "handshake.gif" width = 5
 
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-<br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, RoR
-<br>🔸 AWS and MLOPS
+<p>🔸 Blockchain Technology.
+<br>🔸 Decentralized Organizations (DAO) and Decentralized Exchanges (DEX).
+<br>🔸 Front-End Development.
+<br>🔸 Back-End Development.
+<br>🔸 Cloud Services and MLOPS.
+<br>🔸 System Administration and Networking.
+<br>🔸 Cyber Security.
 <p>
