@@ -12,7 +12,7 @@ I am passionate about sharing my knowledge and experiences with others. If you a
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
 </p>
   
-
+<div align="center">
 <h1>Technical Skills 🛠</h1>
    
 I have learned & explored various Domains few of them are as follows, web-development (as a front-end Developer) , Devops , UI/UX, Cloud , Nocode or Lowcode Tools.I have Worked on various Projects related to Artifical Intelligence,IOT,Augumented Reality,Web-development.Adiitionally,I am <b>4 times Microsoft certified🎖</b> in various Azure Services verticals and </b> .
@@ -45,7 +45,7 @@ I have learned & explored various Domains few of them are as follows, web-develo
 <img alt="SPark AR" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
 </p>
-
+</div>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
