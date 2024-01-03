@@ -12,11 +12,8 @@ I am passionate about sharing my knowledge and experiences with others. If you a
   
 - 👩‍💻 Do you have any freelance work? Feel free to reach out to me. [email](mailto:hello@amnashanwar.com)
 
+
 **Languages and Tools:**  
-
-
-
-
 
 |  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
 |:-:|:-:|:-:|:-:|:-:|---|
