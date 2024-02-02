@@ -47,19 +47,6 @@ I have learned & explored various Domains few of them are as follows, Network En
 </p>
 </div>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<div align="center"><img src="WORM.svg"></div>
-
-
-
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Blockchain Technology.
 <br>🔸 Decentralized Organizations (DAO) and Decentralized Exchanges (DEX).
