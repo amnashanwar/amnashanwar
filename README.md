@@ -7,11 +7,7 @@ I'm [Amnash Anwar](https://amnashanwar.com/), A network engineer & system admin 
 My dedication to continuous learning and regular participation in online courses, webinars, and industry events keep me updated with the latest advancements in technology. I believe in staying updated to excel in this field.
 
 I am passionate about sharing my knowledge and experiences with others. If you are looking for a network engineer or system admin who is dedicated to their craft and has a proven track record of success, I am the perfect fit for you. Let's collaborate and work on innovative projects together.
-
-  <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
-</p>
-  
+ 
 <div align="center">
 <h1>Technical Skills <img src = "code.webp" width = 40px></h1>
    
