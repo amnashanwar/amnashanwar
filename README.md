@@ -2,16 +2,22 @@
 
 ### Hello <img src = "wave.gif" width = 40px>
 
-I'm [Amnash Anwar](https://amnashanwar.com/), A network engineer & system admin based in Saudi Arabia. I possess expertise in networking, systems administration, and software development. My proficiency in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing allows me to efficiently deploy, manage, and scale systems.
+I'm a cybersecurity engineer, DevOps professional, and full-stack developer with a strong background in networking and systems administration. I specialize in designing, implementing, and maintaining secure and scalable systems using my expertise in programming languages and technologies such as Python, Java, C++, virtualization, and cloud computing.
 
-My dedication to continuous learning and regular participation in online courses, webinars, and industry events keep me updated with the latest advancements in technology. I believe in staying updated to excel in this field.
+As a cybersecurity engineer, I have a deep understanding of security principles and practices, and I work to ensure that the software and systems I develop are secure by design. I am experienced in performing security assessments, implementing security controls, and responding to security incidents.
 
-I am passionate about sharing my knowledge and experiences with others. If you are looking for a network engineer or system admin who is dedicated to their craft and has a proven track record of success, I am the perfect fit for you. Let's collaborate and work on innovative projects together.
+As a DevOps professional, I am skilled in automating the software development lifecycle and deploying applications in cloud environments. I have experience with continuous integration and continuous delivery (CI/CD) pipelines, infrastructure as code (IaC), and containerization technologies such as Docker and Kubernetes.
+
+As a full-stack developer, I have experience developing both the front-end and back-end of web applications. I have a strong background in user interface (UI) and user experience (UX) design, and I am skilled in developing responsive and user-friendly applications using modern frameworks such as React and Angular.
+
+I am dedicated to continuous learning and staying up-to-date with the latest advancements in technology. I regularly participate in online courses, webinars, and industry events to expand my knowledge and skills.
+
+I am passionate about sharing my knowledge and experiences with others and enjoy collaborating on innovative projects. If you are looking for a cybersecurity engineer, DevOps professional, or full-stack developer who is dedicated to their craft and has a proven track record of success, I am the perfect fit for you. Let's work together to build secure and scalable systems that meet your needs.
  
 <div align="center">
 <h1>Technical Skills <img src = "code.webp" width = 40px></h1>
-   
-I have learned & explored various Domains few of them are as follows, Network Engineer, System Admin, Web-Development, Devops, Cloud , Nocode or Lowcode Tools. Throughout my learning journey, I have acquired knowledge and expertise in diverse domains, and I continue to grow and evolve.</b>
+
+As a cybersecurity engineer with experience in DevOps and full-stack development, I have delved into various domains, gaining expertise in each. Some of these domains include network engineering, system administration, web development, DevOps practices, cloud computing, and no-code or low-code tools. My continuous learning journey has allowed me to acquire in-depth knowledge and proficiency across these diverse domains, further enabling me to adapt and evolve within the ever-changing technological landscape.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
